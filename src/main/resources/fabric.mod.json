@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "experimental",
+	"version": "${version}",
+	"name": "experimental",
+	"description": "Experimental mod for Fabric",
+	"authors": [
+		"BG03"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/experimental/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.bg03.experimental.Experimental"
+		],
+		"fabric-datagen": [
+			"com.bg03.experimental.ExperimentalDataGenerator"
+		],
+		"client": [
+			"com.bg03.experimental.ExperimentalClient"
+		]
+	},
+	"mixins": [
+		"experimental.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.5",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

@@ -1,0 +1,21 @@
+{
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2024-10-04 17:21:31 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-10-04 17:21:31 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:eroded_badlands": "2024-10-04 17:21:32 -0500"
+    },
+    "done": false
+  },
+  "DataVersion": 3955
+}

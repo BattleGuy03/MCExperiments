@@ -1,0 +1,50 @@
+{
+  "item.experimental.fluorite": "Fluorite",
+  "item.experimental.raw_fluorite": "Raw Fluorite",
+  "item.experimental.chainsaw": "Chainsaw",
+  "item.experimental.strawberry": "Strawberry",
+  "item.experimental.starlight_ashes": "Starlight Ashes",
+  "item.experimental.fluorite_sword": "Fluorite Sword",
+  "item.experimental.fluorite_pickaxe": "Fluorite Pickaxe",
+  "item.experimental.fluorite_axe": "Fluorite Axe",
+  "item.experimental.fluorite_shovel": "Fluorite Shovel",
+  "item.experimental.fluorite_hoe": "Fluorite Hoe",
+  "item.experimental.fluorite_paxel": "Fluorite Paxel",
+  "item.experimental.fluorite_hammer": "Fluorite Hammer",
+
+  "item.experimental.fluorite_helmet": "Fluorite Helmet",
+  "item.experimental.fluorite_chestplate": "Fluorite Chestplate",
+  "item.experimental.fluorite_leggings": "Fluorite Leggings",
+  "item.experimental.fluorite_boots": "Fluorite Boots",
+
+  "item.experimental.fluorite_horse_armor": "Fluorite Horse Armor",
+
+  "block.experimental.fluorite_block": "Block of Fluorite",
+  "block.experimental.fluorite_ore": "Fluorite Ore",
+  "block.experimental.deepslate_fluorite_ore": "Deepslate Fluorite Ore",
+  "block.experimental.nether_fluorite_ore": "Nether Fluorite Ore",
+  "block.experimental.end_fluorite_ore": "End Fluorite Ore",
+  "block.experimental.magic_block": "Magic Block",
+  "block.experimental.fluorite_stairs": "Fluorite Stairs",
+  "block.experimental.fluorite_slab": "Fluorite Slab",
+  "block.experimental.fluorite_button": "Fluorite Button",
+  "block.experimental.fluorite_pressure_plate": "Fluorite Pressure Plate",
+  "block.experimental.fluorite_wall": "Fluorite Wall",
+  "block.experimental.fluorite_fence": "Fluorite Fence",
+  "block.experimental.fluorite_fence_gate": "Fluorite Fence Gate",
+  "block.experimental.fluorite_door": "Fluorite Door",
+  "block.experimental.fluorite_trapdoor": "Fluorite Trapdoor",
+  "block.experimental.pedestal": "Pedestal",
+  "block.experimental.crystallizer": "Crystallizer",
+
+  "itemGroup.fluorite": "Fluorite",
+
+  "tooltip.experimental.chainsaw.tooltip.shift": "Hold §eSHIFT§r for more information",
+  "tooltip.experimental.chainsaw.tooltip.1": "This chainsaw will cut down trees fast!",
+  "tooltip.experimental.chainsaw.tooltip.2": "§oChainsaw go vroom!",
+  "tooltip.experimental.magic_block.tooltip.1": "This block is §bmagical!",
+  "tooltip.experimental.strawberry.tooltip.1": "Tastes great!",
+
+  "gui.experimental.pedestal": "Pedestal",
+  "gui.experimental.crystallizer": "Crystallizer"
+}

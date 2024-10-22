@@ -1,0 +1,9 @@
+// 1.21.1	2024-10-21T19:21:29.2756021	experimental/Block Loot Tables
+eb17377d520fa1192082ed6cc1d2d999bbef92bf data\experimental\loot_table\blocks\fluorite_block.json
+7d525e1e44674a8a128c340c015cf36b792dacd0 data\experimental\loot_table\blocks\nether_fluorite_ore.json
+d2da6c8b596118c7e38223b1f5981067ab0b1aae data\experimental\loot_table\blocks\fluorite_slab.json
+c19bee76733e08e8aef3cb8b673448344c44abed data\experimental\loot_table\blocks\magic_block.json
+843631ebe21fec028e83df1e64bb0ceebdf59288 data\experimental\loot_table\blocks\deepslate_fluorite_ore.json
+d12168e24abbde4472737a387a2780f15bbdf886 data\experimental\loot_table\blocks\fluorite_ore.json
+14c9a623e2dca280408f603640b5e81d18fd0eb2 data\experimental\loot_table\blocks\fluorite_stairs.json
+9e43ec4586b80dc3f457082c44c62f02d7577778 data\experimental\loot_table\blocks\end_fluorite_ore.json

@@ -1,0 +1,9 @@
+{
+  "values": [
+    "experimental:fluorite_block",
+    "experimental:fluorite_ore",
+    "experimental:deepslate_fluorite_ore",
+    "experimental:nether_fluorite_ore",
+    "experimental:end_fluorite_ore"
+  ]
+}

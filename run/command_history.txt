@@ -1,0 +1,35 @@
+/give @s minecraft:diamond_pickaxe
+/give @s minecraft:iron_pickaxe
+/give @s minecraft:stone_pickaxe
+/give @s experimental:chainsaw
+/locate biome minecraft:forest
+/
+/tp @s 296 83 -327
+/gamerule doMobSpawning false
+/kill @e[type=!player]
+/give @s experimental:strawberry 64
+/time set day
+/locate biome minecraft:forest
+/tp @s 19 96 -396
+/kill
+/gamerule keepInventory true
+/kill
+/gamerule keepInventory true
+/locate biome minecraft:birch_forest
+/tp @s 1446 82 -652
+/setblock ~ ~ ~ minecraft:obsidian
+/setworldspawn
+/give @s experimental:fluorite_sword
+/summon minecraft:zombie
+/give @s experimental:strawberry 64
+/summon minecraft:warden
+/give @s experimental:fluorite_pickaxe
+/give @s minecraft:gold_ingot 3
+/summon minecraft:horse
+/give @s minecraft:golden_carrot 64
+/give @s experimental:fluorite_horse_armor
+/give @s minecraft:saddle
+/gamerule doDaylightCycle false
+/gamerule doWeatherCycle false
+/time set day
+/weather clear

@@ -1,0 +1,103 @@
+{
+  "experimental:recipes/misc/raw_fluorite": {
+    "criteria": {
+      "has_fluorite": "2024-10-16 22:12:38 -0500"
+    },
+    "done": true
+  },
+  "experimental:recipes/misc/fluorite_from_blasting_fluorite_ore": {
+    "criteria": {
+      "has_fluorite_ore": "2024-10-16 22:12:55 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-10-16 22:14:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2024-10-16 22:11:23 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-10-16 22:11:23 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-10-16 22:11:28 -0500"
+    },
+    "done": true
+  },
+  "experimental:recipes/building_blocks/fluorite": {
+    "criteria": {
+      "has_fluorite_block": "2024-10-16 22:11:23 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-10-16 22:14:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:eroded_badlands": "2024-10-16 22:11:25 -0500",
+      "minecraft:desert": "2024-10-16 22:13:53 -0500",
+      "minecraft:forest": "2024-10-16 22:14:01 -0500",
+      "minecraft:stony_shore": "2024-10-16 22:13:55 -0500",
+      "minecraft:savanna": "2024-10-16 22:14:04 -0500"
+    },
+    "done": false
+  },
+  "experimental:recipes/building_blocks/fluorite_slab": {
+    "criteria": {
+      "has_fluorite": "2024-10-16 22:12:38 -0500"
+    },
+    "done": true
+  },
+  "experimental:recipes/misc/fluorite_from_smelting_raw_fluorite": {
+    "criteria": {
+      "has_raw_fluorite": "2024-10-16 22:12:40 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-10-16 22:13:04 -0500"
+    },
+    "done": true
+  },
+  "experimental:recipes/decorations/fluorite_block": {
+    "criteria": {
+      "has_fluorite": "2024-10-16 22:12:38 -0500"
+    },
+    "done": true
+  },
+  "experimental:recipes/misc/fluorite_from_blasting_raw_fluorite": {
+    "criteria": {
+      "has_raw_fluorite": "2024-10-16 22:12:40 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-10-16 22:14:10 -0500"
+    },
+    "done": true
+  },
+  "experimental:recipes/misc/fluorite_from_smelting_fluorite_ore": {
+    "criteria": {
+      "has_fluorite_ore": "2024-10-16 22:12:55 -0500"
+    },
+    "done": true
+  },
+  "DataVersion": 3955
+}

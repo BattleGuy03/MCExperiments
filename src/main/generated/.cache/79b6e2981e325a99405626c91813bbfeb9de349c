@@ -1,0 +1,9 @@
+// 1.21.1	2024-10-21T19:21:29.2746026	experimental/Tags for minecraft:block
+82362cfbd1836db13c7e9d36c8712821e795ac55 data\experimental\tags\block\paxel_mineable.json
+c8e374510f55c9d6c75c93b6900f9642deba5c35 data\minecraft\tags\block\needs_stone_tool.json
+da40320d250ce7081d8a7e9203cdbeb96c14b35f data\minecraft\tags\block\mineable\pickaxe.json
+f8c936886b694d27483eb51018ac4abdb2799819 data\minecraft\tags\block\fences.json
+38733761404a142d7ef843e5ed336f3f9be01c9f data\minecraft\tags\block\needs_iron_tool.json
+6c9119e7352725a79e2bf9a1e90462919776e097 data\minecraft\tags\block\walls.json
+c770280146b0313fd4a10a9549d42e5af6216a8f data\minecraft\tags\block\fence_gates.json
+22c6897a0183aec4645ed09da036797474573892 data\minecraft\tags\block\needs_diamond_tool.json

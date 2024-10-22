@@ -1,0 +1,45 @@
+{
+  "experimental:recipes/misc/raw_fluorite": {
+    "criteria": {
+      "has_fluorite": "2024-10-21 19:22:03 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-10-21 19:22:03 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:birch_forest": "2024-10-21 19:22:03 -0500"
+    },
+    "done": false
+  },
+  "experimental:recipes/building_blocks/fluorite_slab": {
+    "criteria": {
+      "has_fluorite": "2024-10-21 19:22:03 -0500"
+    },
+    "done": true
+  },
+  "experimental:recipes/misc/fluorite_from_smelting_raw_fluorite": {
+    "criteria": {
+      "has_raw_fluorite": "2024-10-21 19:22:07 -0500"
+    },
+    "done": true
+  },
+  "experimental:recipes/decorations/fluorite_block": {
+    "criteria": {
+      "has_fluorite": "2024-10-21 19:22:03 -0500"
+    },
+    "done": true
+  },
+  "experimental:recipes/misc/fluorite_from_blasting_raw_fluorite": {
+    "criteria": {
+      "has_raw_fluorite": "2024-10-21 19:22:07 -0500"
+    },
+    "done": true
+  },
+  "DataVersion": 3955
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "experimental:block/fluorite_slab"
+    },
+    "type=double": {
+      "model": "experimental:block/fluorite_block"
+    },
+    "type=top": {
+      "model": "experimental:block/fluorite_slab_top"
+    }
+  }
+}

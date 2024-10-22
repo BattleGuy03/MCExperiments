@@ -1,0 +1,10 @@
+{
+  "type": "experimental:crystallizing",
+  "ingredient": {
+    "item": "experimental:raw_fluorite"
+  },
+  "result": {
+    "id": "experimental:fluorite",
+    "count": 2
+  }
+}
